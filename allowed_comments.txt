@@ -1,0 +1,570 @@
+Great tutor! Very patient and explained everything with clarity.
+He is the best teacher I have ever had. He explains algorithms so well, makes it really easy to understand complex problems. Highly recommended!
+Excellent class. The real world examples and analogies really helped me grasp the concepts. Thanks a lot!
+Very friendly and approachable. I felt very comfortable asking questions.
+Amazing debugging skills! He helped me find the bugs in my project and explained the fix in detail.
+Strong math foundations. The calculus equations were well explained.
+Nice.
+The code review was extremely helpful, showed me clean code standards and design patterns.
+Always on time and very professional. He makes the lessons highly structured and organized.
+Loved the hands-on project work. It was useful, practical and relevant to current industry trends.
+His pronunciation focus was great, helped me build fluency and speak more naturally.
+Wonderful session, I learned so many new vocabulary words today.
+Highly knowledgeable and expert in his field. The theory was covered in-depth.
+Really inspiring enthusiasm for the subject. Made me love chemistry!
+Thank you for the detailed feedback. I know exactly how to improve my essay writing now.
+Superb lab oriented work. Creative approach and very engaging.
+He has a calm teaching style and never rushes. Truly patient.
+Awesome class! The diagrams and visual aids made it so easy to follow.
+Always encourages us to try new things and experiment. Builds confidence.
+dhanyavad sir, mast shikavta tumhi. clear explanation.
+Très bonne session. Le tuteur est très gentil et explique bien les algorithmes.
+Great examples, fast response, very flexible and supportive mentor.
+Perfect explanation of time complexity and data structures.
+Very late class.
+Not good. The explanation was confusing and he did not help at all.
+He is always late. Punctuality is zero. Very disappointed.
+Poor communication and very disorganized. The notes were messy and hard to read.
+Not helpful. He just reads from the slides and does not answer any questions.
+He has no industry experience, his code is full of errors and bugs.
+His pronunciation was unclear and he spoke too fast. I couldn't follow.
+Muy mala calidad. No lo recomiendo.
+He is not patient at all, gets angry when I ask him to repeat.
+He didn't explain the logic, he just wrote the code without explaining.
+He didn't prepare the material, he was searching for answers during the class.
+His explanations are not clear, it just makes me more confused.
+I did not like his approach. It is not practical.
+Poor tutor quality, does not know the subject well.
+The session was covered in 1 hour.
+What is the fee for the science course?
+How much does a 1 hour session cost?
+We discussed chapter 4 and solved exercise 2.
+Is the class scheduled for tomorrow at 3 PM?
+The tutor asked me to buy the textbook for reference.
+We will cover the syllabus in the next two weeks.
+Please share the notes for today's lecture.
+Is this course suitable for beginners?
+We talked about basic algorithms and data structures.
+The session started exactly at 4 PM.
+How many sessions are remaining in this module?
+The teacher assigned homework for next week.
+Can we reschedule the session to Wednesday?
+Which programming language will be used in the technical class?
+We just read the slides and talked about exam patterns.
+The tutor sent a link for the zoom session.
+Class was normal.
+We went through the syllabus and basic rules.
+Does this tutor teach Python?
+What is the duration of each class?
+The session fee is reasonable.
+The lecture was about art history context.
+We solved some practice questions.
+Thanks a lot for the help! I finally understand binary search trees.
+Excellent class. The way you explained the difference between SQL and NoSQL was so clear.
+Highly recommend this tutor. He has a lot of patience and went over the topic twice.
+Really loved the interactive coding examples today. It made learning react state very easy.
+Great session! The slides were very clean and well prepared.
+Awesome explanation of dynamic programming. I spent days on this and you made it look simple.
+Super helpful feedback on my project. I know exactly what design patterns to implement now.
+Perfect pace for beginners. Thank you for not rushing through the basics.
+Best coding session I've had. Very hands-on and practical.
+Thank you for explaining the math proof in such a simple way. It makes perfect sense now.
+The class was very engaging. I liked how you asked questions to make sure we were following.
+Very knowledgeable and structured. Everything was explained step-by-step.
+mast class hoti sir! clear concept.
+Muchas gracias por la clase. Fue muy útil y clara.
+Très bon prof. Les explications étaient super claires.
+Always prepared and on time. A very professional teacher.
+The analogies used to explain memory leak were brilliant. Very creative teaching style.
+I liked the debugging session. Seeing you fix errors live taught me a lot.
+He has a calm voice and explains everything step-by-step. Very reassuring for anxious students.
+Nice work. The code repo shared after the class is very well documented.
+Very responsive to chat questions. Didn't leave anyone behind.
+Great! I enjoyed the quiz at the end of the session. It helped recap the main points.
+Thanks for staying 5 minutes extra to answer my doubts. Much appreciated!
+The curriculum is very well designed. Looking forward to the next lesson.
+The audio was lagging a lot during the screen share. I missed half of the class.
+Too fast pace. He didn't wait for us to type the code and just moved on.
+He skipped my question in the chat twice. Disappointed with the support.
+The explanation was confusing. I feel more lost now than before the class.
+The background noise was very loud. It was hard to hear the explanations.
+He was unprepared today. He spent 15 minutes trying to fix his own code during the demo.
+No slides, no notes, no code shared. Very disorganized session.
+Poor explanation of recursion. He just read from the slide and didn't show any diagram.
+Not helpful. He just told me to Google the error instead of explaining why it happened.
+The tutor seemed very bored and kept sighing. Very uninspiring atmosphere.
+This class was way too basic. We spent an hour just installing Python.
+He did not give any feedback on my homework. I don't know if my code is correct.
+Very late response to my queries. Took three days to reply to a simple question.
+confusing explanation, not clear.
+No structure at all. He was jumping from one topic to another without context.
+No me gustó. El tutor hablaba demasiado rápido y no se entendía nada.
+He gets defensive when someone asks him to clarify things. Not a friendly tutor.
+The examples were too complex and not relevant to the topic.
+I did not receive the notes after the class as promised.
+Poor teaching style. He just shows code and doesn't explain the logic behind it.
+Is there a class tomorrow?
+Where can I find the recorded video of today's session?
+What is the fee for the database module?
+Will we cover docker next week or the week after?
+How long is each lecture?
+The class lasted for 50 minutes.
+Do we need to install node before the next session?
+What textbook are we using for reference?
+Please share the link for the class notes.
+Is this class suitable for advanced students?
+We covered loop concepts and basic syntax today.
+Is the homework due on Monday or Tuesday?
+How many students are there in this batch?
+Can we get a certificate after completing this course?
+What is the schedule for next month?
+We solved two programming exercises during the class.
+Who is the instructor for the frontend class?
+The session was covered in one hour.
+Can we reschedule the class to 4 PM?
+Please upload the source code to GitHub.
+Do you teach Java as well?
+Which editor should we use for writing code?
+The next lecture is scheduled for Wednesday.
+Is there any prerequisite for the algorithms course?
+We discussed standard OOP concepts today.
+Mast padhaya sir, ekdum clear concept ho gaya.
+तुमचं शिकवणं खूप छान आहे, सगळं लवकर लक्षात येतं.
+Grazie mille! Aaj ka session bohot helpful tha.
+खूप सुंदर शिकवलंत, धन्यवाद सर.
+Merci beaucoup, la classe était parfaite et très claire.
+Sir ne itne acche se recursion samjhaya ki maza aa gaya.
+Yeh teacher toh slide padhne wala hai, khud kuch nahi samjha.
+एक नंबर शिकवलं, आम्हाला खूप आवडलं.
+Punctuality ki toh baat mat karo, roz late aata hai.
+Arigato! Aaj ke session ne meri saari confusion door kar di.
+Class lene ka tareeka hi galat hai, bas jaldi jaldi khatam karta hai.
+तुमचे उदाहरण खूप सोपे आणि प्रॅक्टिकल होते, शिकायला मजा आली.
+Dank je wel! De uitleg was heel duidelijk en nuttig.
+Sirf code likhta hai, logic kya hai yeh nahi batata.
+क्लासमध्ये जे शिकवलं ते सगळं लक्षात राहिलं, खूप छान.
+Bhai isko padhane ka koi experience nahi hai, khud confused tha.
+Muchas gracias, la sesión fue increíble, aprendí mucho.
+सर, तुम्ही खूप पेशंट आहात, वारंवार समजावून सांगता.
+Itna slow padhata hai ki neend aa jaaye.
+He is a total fraud, doesn’t know even basic Python.
+Aaj ka session dekh ke toh mera confidence hi boost ho gaya.
+Kya fayda aise teacher ka jo sawaal puchne par chillata hai.
+खूप छान शिकवता, प्रत्येक गोष्ट diagram ने समजावता.
+Vielen Dank! Die Sitzung war wirklich sehr hilfreich.
+Sir aapke jaise mentor milna mushkil hai, bahut accha samjhaya.
+Teacher khud subject se pareshan lagta hai, seekhne ki koi umeed mat rakho.
+तुमच्या शिकवण्याने मला विषय आवडायला लागला.
+Hvala! Objašnjenje je bilo odlično, puno sam naučio.
+Sir ne itne simple tareeke se OOPs samjha diya, ab kabhi nahi bhulunga.
+Aise teacher ko blacklist karo, na preparation hai na knowledge.
+मस्त शिकवलं सर, प्रॅक्टिकल कोडिंग सोबत सगळं समजलं.
+He just googles everything live, bada aaya expert banne.
+Děkuji! Dnešní lekce byla skvělá, děkuji za trpělivost.
+Is tutor ki wajah se coding se nafrat ho gayi hai.
+खूप सुंदर सर, तुमच्या उदाहरणांनी आम्हाला वेगळाच दृष्टिकोन मिळाला.
+Naak mein dum kar deta hai, hamesha jaldi mein class khatam.
+Sir aapne jo design patterns bataye, wo industry mein direct use kiye.
+Multumesc! Sesiunea a fost foarte interactivă și clară.
+Har baar alag alag topic le aata hai, koi continuity nahi.
+तुमच्या सारखे शिक्षक म्हणजे दुर्मिळ रत्न आहेत, पूर्ण आत्मविश्वास वाढला.
+Class shuru hone se pehle hi pata chal gaya tha ki kuch nahi hone wala.
+Xie xie! The teacher explained the algorithm like a story, very nice.
+Is mentor ne to meri SQL ki saari problem chutkiyon mein solve kar di.
+खूपच अप्रतिम, तुमच्या शिकवण्याने आयुष्य बदलेल.
+Dimag ki dahi kar di, basic cheezein bhi galat bata raha tha.
+Kiitos! Todella selkeä opetus ja hyvät esimerkit.
+Total panauti tutor, jitna door raho utna accha.
+Aaj ka session dekh ke lag raha hai kuch naya seekhne ko mila.
+तुमच्या शिकवण्याची पद्धत लाजवाब आहे, खूप काही शिकायला मिळालं.
+Koi response nahi deta doubt poocho toh, bas apna dekho.
+Danke schön! Die Erklärungen waren sehr praxisnah und verständlich.
+Sir aapne toh calculus ko bachcho ka khel bana diya.
+व्वा! तुम्ही तर जादू करून दाखवली, एवढं सोपं शिकवलंत.
+Has no knowledge of time complexity, fir bhi algorithms padha raha hai.
+Tänan! Seletus oli väga arusaadav ja interaktiivne.
+आजच्या क्लासने खरंच खूप मदत झाली, मनापासून धन्यवाद.
+Aise tutor ko report karo, cheating kar raha hai students ke saath.
+Merci chef! C’était une masterclass sur les structures de données.
+Iske padhane se toh stack overflow padhna better hai.
+छान, तुमच्या सांगण्याची पद्धत मला खूप आवडली.
+Clown hai ekdum, maze leta hai students ke.
+спасибо большое, урок был очень полезным и интересным.
+Sir ne jaise linked list reverse karna sikhaya, waah!
+अभ्यासक्रम खूप व्यवस्थित समजावला, पुन्हा अशी क्लास हवी.
+I request everyone, please avoid this tutor, he is a brainless fellow.
+Obrigado! A explicação sobre APIs foi perfeita.
+Isse padhkar koi developer nahi ban sakta, bas time pass karta hai.
+किती सहजपणे तुम्ही डीबगिंग करून दाखवली, मजा आली.
+Dziękuję! Sesja była świetna, dużo się nauczyłem.
+Aapke jaise mentor ho toh koi bhi language seekhna easy ho jaaye.
+Bewakoofon ki tarah slide padhke chala gaya, kuch samjha nahi.
+मराठी मध्ये शिकवल्यामुळे खूप भारी वाटलं, आपल्या भाषेत ज्ञान मिळालं.
+Kiitos paljon! Ymmärsin vihdoin dynaamisen ohjelmoinnin.
+Sir ne jo real-world examples diye na, dil jeet liya.
+Aaj ka session sunne ke baad mujhe apne paison ki chinta ho rahi hai.
+खूप छान तयारी करून आलात सर, प्रत्येक concept ची example होती.
+Grazie per la lezione, tutto molto chiaro e professionale.
+Time pass teacher, bass bakchodi karta hai class mein.
+अभ्यास खूप सोपा वाटू लागला, अशा शिक्षकांमुळे.
+спасибо, вы очень понятно объяснили сложную тему.
+Bhai yeh kya majak hai, class ke naam pe muh kala karwa diya.
+Sir aapki teaching style ka koi tod nahi, ek dum jhakaas.
+फक्त तुमच्यामुळे मला डेटा स्ट्रक्चर्स मध्ये इंटरेस्ट आला.
+Ačiū! Puikiai paaiškinta, labai dėkingas.
+Koi sense nahi hai iske padhane ka, bas screen share karke so jata hai.
+तुमच्या शिकवण्याने आमचं भविष्य घडत आहे, खूप आभार.
+Isse better toh main khud books padh lun, yeh toh bekaar hai.
+Muchas gracias, la clase estuvo genial, todo muy ordenado.
+Chutiyon ki tarah homework diya aur check tak nahi kiya.
+व्वा मराठी मध्ये कोडिंग शिकायला मजा आली, एकदम देसी स्टाइल.
+Not recommended at all, isko tutor bolna band karo, joker bolo.
+Σας ευχαριστώ! Το μάθημα ήταν εξαιρετικό.
+Sir ne mock interview lekar meri poori tension khatam kar di.
+आता वाटतं की प्रोग्रामिंग माझ्यासाठी नाही असं कधीच वाटायचं, फक्त योग्य शिक्षक हवा.
+Köszönöm! Nagyon türelmes és alapos tanár.
+Sir aapke padhane ka andaaz hi kuch aur hai, thanks a ton.
+Iss tutor ko dekh ke mujhe apna gussa control karna mushkil ho raha.
+फारच छान सर, तुमच्याकडून खूप काही शिकण्यासारखं आहे.
+Rubbish teacher, he doesn't even know how to use an IDE properly.
+감사합니다! 오늘 수업 정말 유익했어요.
+Aaj ki class ne meri JavaScript ki saari galtiyaan sudhaar di.
+तुमचं शिकवणं म्हणजे एक अनुभव आहे, शब्दांत व्यक्त करू शकत नाही.
+Grazie infinite, la spiegazione sulla complessità temporale era perfetta.
+Sir, aap genuinely ek mentor ho, bas aise hi saath do.
+खूपच सोपं आणि सोप्या उदाहरणांनी शिकवलंत, शतशः धन्यवाद.
+Terima kasih! Penjelasannya sangat jelas dan membantu.
+Aaj ka Java session sunkar lagta hai ab switch karna asaan hoga.
+Naam ka tutor hai, kaam ka zero, attitude full.
+तुमच्या मुळे मशीन लर्निंग मला आता सोपं वाटतं.
+Thank you so much! The debugging tips were gold.
+Iss ke tutorials dekh ke lagta hai isko khud seekhna chahiye.
+सगळे doubts एकदम clear केले, कोणतीही घाई नव्हती.
+Kachra teacher, kachra content, kachra experience.
+Multumesc din suflet! Sesiunea a fost exact ce aveam nevoie.
+Is haraami ne class late join ki aur jaldi chhod di, poora fraud.
+Sir aap jo padhate ho wo seedha dimag mein chhapa jaata hai.
+उत्तम, आता मी स्वतः कोड लिहू शकतो आत्मविश्वासाने.
+Merci, vous êtes le meilleur prof que j’ai jamais eu.
+आमच्या सरांनी खूप मेहनत घेतली, खूप कृतज्ञ आहे.
+Danke, Sie haben mir wirklich geholfen, das Konzept zu verstehen.
+Is tutor se padhna matlab apni akal pe tala lagana.
+Sir aapne exceptions handling ko itna simple bana diya ki wah.
+Jhaant bhar ka knowledge nahi hai aur attitude dekho iska.
+फार भारी शिकवलंत, एकदम पर्फेक्ट पेस.
+I will make sure no one joins this fraud tutor’s class.
+спасибо за помощь, очень хороший преподаватель.
+Bhai isne toh mere concepts hi hila diye galat cheezein bata ke.
+Aaj ka class dekh ke lagta hai ki is subject mein career bana sakta hun.
+Iske jaise tutor ko toh jail honi chahiye, cheating kar raha hai.
+खूप आवडली तुमची शिकवण्याची पद्धत, उत्साहाने शिकवता.
+Köszönöm szépen, nagyszerű magyarázat volt.
+Sir aapka padhaya hua aaj bhi yaad hai, itna accha session tha.
+तुमचे आभार, खूप छान शिकवलंत आणि प्रोत्साहन दिलंत.
+Chodu teacher, 10 minute bina ruke slide padhke bhaag gaya.
+Muito obrigado, professor! A explicação foi excelente.
+Tumchya muule mala React shikayla bhari vatala, dhanyavaad!
+Gade murde ukhad diye is tutor ne, kabhi mat join karo.
+Gracias, el profesor es muy amable y profesional.
+सर, तुमची शिकवण्याची स्टाईल एकदम युनिक आहे, खूप शिकलो.
+Aaj kal ke tutor bhi na, bas fraud aur timepass.
+Děkujeme! Bylo to skvělé, hodně jsme se naučili.
+Chomu teacher, khud ki typing speed 0 hai aur humein sikhaega.
+Aapke wajah se aaj maine REST API khud likhi, thank you.
+आजचं सेशन ऐकून खूप आनंद झाला, सगळं क्लियर झालं.
+Aaj ka session next level tha, ekdum zaakaas padhaya.
+Sir, aapne toh binary tree itna easily samjha diya, maza aa gaya.
+तुमचं शिकवणं म्हणजे सोनं आहे, फार सोपं वाटतं सगळं.
+Itne patiently doubts clear kiye na, dil khush ho gaya.
+Bhai, tera teaching style ekdum alag hai, 10/10.
+Madame, vous êtes incroyable, l'explication était parfaite.
+खूप सुंदर शिकवलंत, आता कोडिंगची भीतीच गेली.
+Maja aa gaya, ekdum practical approach se samjhaya.
+The way you explained recursion with stack diagram was 🔥
+Sir aapke jaise tutor mil jaaye toh koi bhi exam crack ho sakta hai.
+तुम्ही खूप सोपं करून सांगता, प्रत्येक लहान मूल शिकू शकेल.
+I was about to quit coding, but your class revived my confidence.
+Kya mast live debugging kari, ab khud bugs pakad leta hoon.
+Ce professeur est génial, tout devient clair après la session.
+खरंच सर, तुमच्यामुळे प्रोग्रामिंग माझ्यासाठी आता खेळ वाटतो.
+Is mentor ne toh data science ko bachchon ka khel bana diya.
+Waah sir, object oriented programming ki toh pooch mat, top samjaya.
+Dil se thank you, aapne hard topic ko halwa bana diya.
+तुमचं वर्णन करायला शब्द अपुरे पडतील, खूप छान शिकवता.
+Sirf ek session mein poori machine learning pipeline clear kar di.
+Aaj tak itna systematic approach nahi dekha, amazing sir.
+L’insegnante è molto paziente, ho imparato tantissimo.
+बहुत बढ़िया, आपने तो कॉन्सेप्ट की गागर में सागर भर दिया।
+Tumchya shikavnya mule mala developer banaychi iccha aali.
+Superb, ab mujhe API integration karte time koi darr nahi.
+आजची क्लास म्हणजे जत्राच होती ज्ञानाची.
+Sir aap sach mein God gifted teacher ho, har cheez seedhi dimag mein utri.
+Mich hat diese Erklärung sehr geholfen, vielen herzlichen Dank.
+Yeh tutor nahi, walking Wikipedia hai, knowledge ki koi seema nahi.
+तुम्ही मला शिकायला प्रवृत्त केलं, हाच खरा शिक्षकाचा गुण.
+Aapke examples hamesha industry relevant hote hain, boht kaam ke.
+Kya baat hai, itna complex SQL query itne simple way mein samjhaya.
+توضیح عالی بود، خیلی ممنون از این جلسه خوب.
+आता तर मी कोडिंग चॅलेंज सहज सोडवू शकतो, धन्यवाद.
+Mentor ne toh code review mein poori zindagi ke best practices sikha di.
+Sir, aapka intonation aur pace lajawab hai, ek second bhi bore nahi hua.
+Muy buen profesor, el ritmo de la clase es perfecto.
+सर, तुमच्यासारखा शिक्षक प्रत्येकाला मिळावा, पूर्ण आत्मविश्वास मिळाला.
+Is session ke baad lagta hai main full stack developer ban sakta hoon.
+Thank you for the extra worksheet, usne aur clarity di.
+बहुतेक शंका आपोआप सुटतात तुमचं शिकवणं ऐकताना.
+Kya solid explanation tha Docker ka, aaj tak aise nahi samjha.
+Ihr seid ein fantastischer Lehrer, ich verstehe jetzt alles.
+Har class mein kuch na kuch naya seekhne ko milta hai, best teacher.
+सर, तुमची teaching म्हणजे एक उत्तम कलाकृती आहे.
+Aaj ka graph theory ka session ek dum crystal clear tha.
+Ben je een geweldige tutor, de voorbeelden zijn heel herkenbaar.
+Tumchya muule mi git commands shiklo, atta confidently use karto.
+Full marks to you sir, aap hamesha encourage karte ho.
+انا سعید جدا، جلسة ممتازة واستفدت كثیرا.
+Aaj ka class kitne baje start hoga?
+Sir, project submission ki last date kya hai?
+Is course mein itne modules hain aur syllabus kya hai?
+कृपया आजची स्लाईड्स शेअर करू शकता का?
+Humein agle week ka test hai ya nahi?
+क्लासची रेकॉर्डिंग मिळेल का नंतर?
+Kya aap weekend batch bhi lete ho?
+Sir, fees EMI mein pay kar sakte hain kya?
+कृपया मला डाउट सेशनचा वेळ सांगा.
+Kya main ek demo class le sakta hoon join karne se pehle?
+Assignments evaluate hone mein kitna time lagta hai?
+या मॉड्यूलसाठी कोणती बुक लागेल सर?
+Humein project ke liye group banane hain ya individual kaam karna hai?
+Sir, aap konsa IDE use karne ko bol rahe the?
+कोर्स पूर्ण झाल्यावर सर्टिफिकेट मिळेल का?
+Aaj ki class mein humne sirf introduction cover kiya.
+Class ki duration 1.5 ghante ki hai ya 2 ghante?
+मला हा टॉपिक समजला नाही, पुढच्या क्लास मध्ये रिपीट करू शकता?
+Sir, aap live project bhi karwate ho kya?
+Kal subah ki class confirm hai ya reschedule hogi?
+कृपया आपल्या टीमचा कॉन्टॅक्ट नंबर द्या.
+Homework discussion kab hogi?
+Can I get the solutions of today's practice sheet?
+Sir, backend ke liye konse frameworks cover honge?
+ह्या कोर्सची पात्रता काय आहे?
+Aaj class mein thoda network issue tha, kuch miss ho gaya.
+Sir, kya hum Python 3.11 use kar sakte hain?
+आज पावसामुळे इंटरनेट डाऊन होतं, session rejoin nahi kar paya.
+Is course ke baad placement assistance milti hai kya?
+Sir ne chapter 5 start kar diya kya aaj?
+Group discussion ke liye alag session hoga?
+धन्यवाद, मला आजचे नोट्स पाठवा प्लीज.
+Sir, evaluation criteria kya hai final project ka?
+Mid-term mein theory zyada hogi ya practical?
+Sir, aap weekdays mein morning batch lenge?
+Next class mein hum log JavaScript start karenge?
+Kya aapke paas recorded crash course available hai?
+Sir ne aaj jo commands likhi thi, wo share kardo.
+माझं अकाउंट अजून activate झालं नाही, काय करू?
+Sir, internals ke marks kab tak update honge?
+Kya ek baar pura roadmap phir se samjha sakte ho?
+आपला क्लास रूम लिंक तोच राहील ना?
+Sir, can we do a quick revision of last topic before starting new?
+मी आजची क्लास miss केली, काय शिकवलंत?
+Final exam online hoga ya offline?
+Sir, aap kaunsa database prefer karte ho real project mein?
+Class ka schedule share kar dijiye please.
+Sir, kya main apna laptop leke aa sakta hoon lab mein?
+आजच्या सेशनचा main takeaway kya tha?
+Sir ne aaj apna mood thik karne ke liye humein daant diya.
+Is tutor se padhna time ki barbaadi hai, kuch sikhne ko nahi milta.
+हा शिक्षक फक्त स्वतःची स्तुती करत राहिला, पढ़ाई काहीच नाही.
+Bhai, isko padhane ki jagah cooking channel kholna chahiye.
+Is mentor ka communication skill hi nahi hai, bas muh mein supari leke baitha tha.
+या शिक्षकाला बोलता येत नाही, सगळं फास्ट फास्ट सांगून पळाला.
+Class mein aake sirf apni success stories suna raha tha.
+Inka knowledge toh outdated hai, naye frameworks ka naam tak nahi pata.
+Sir ne doubt puchne par chillaya, bahut badtameez insaan hai.
+Aaj toh bas time pass hua, code ki ek line bhi nahi likhi gayi.
+Is teacher ke notes dekh ke aankhen dukh gayi, aise messy.
+Overpriced course, return on investment zero.
+हा ट्युटर फालतू आहे, फक्त पेमेंट लेते वक्त गोड बोलतो.
+Session ke beech mein uthke chai peene chala gaya, very unprofessional.
+English toh theek se bol leta nahi, angreji ki class le raha tha.
+ह्याने आजवर जे शिकवलं त्याचा कधी उपयोगच झाला नाही.
+I regret taking this course, bekaar experience.
+Sir hamesha apne ego mein rehte hain, feedback sunne ko taiyar nahi.
+बंद करो यार, 2 घंटे फालतू की बकैती, कोई concept नहीं।
+Aaj ka class dekh ke lagta hai isko teaching line chhod deni chahiye.
+Iss tutor ko khud coding nahi aati, galtiyaan pakad nahi paata.
+Naak se bol raha tha, aadhi awaaz samaj nahi aayi.
+काय हे शिक्षक आहे, प्रश्न विचारला तर टोमणे मारतो.
+Totally disorganized, lagta hai class se 5 minute pehle utha tha.
+Maze se so gaya hoga ye banda class ke beech mein, aawaz nahi aayi 10 minute tak.
+Is se acha freeCodeCamp se seekh lo, kuch matlab nahi iska.
+Galat code likh ke dikhaya, fir blame mic pe daal diya.
+ह्याला शिकवायची लायकी नाही, फसवतो विद्यार्थ्यांना.
+Lecture mein koi flow nahi, randomly topics chune ja rahe the.
+He kept his camera off whole time, pata nahi padha raha tha ya so raha tha.
+बेकार, एक भी नया टॉपिक नहीं करवाया, पिछले का रिवीजन बता के छोड़ दिया।
+Sirf chat mein “ok”, “good” likhta hai, baaki questions ignore.
+Ye padhane ka tareeka hai ya sone ka, saans leta hua sunai deta tha.
+काय शिकवतोस भाई, अरे हा मास्तर नाही जोकर आहे.
+Concept zero, confidence full – isse buri combination kya hogi.
+Unprepared aata hai, Google karta hai live, sharam nahi aati.
+Galti se bhi inke paas mat jana, meri tarah pachtaoge.
+Poora time bas bolta raha “this is very easy”, par samjhaya kuch nahi.
+लेक्चर सुनके लगा के आज डिप्रेशन हो जाएगा, इतना नकारात्मक माहौल।
+Full charge leke aaya tha, beech mein socket se wire nikal gaya literally aur metaphorically.
+Merci pour cette magnifique session, tout était très logique.
+Ho apprezzato molto la tua pazienza, insegnante fantastico.
+बहुत बढ़िया, aaj ka session kuch hatke tha.
+Dank u voor de duidelijke uitleg over multithreading.
+شكرا جزيلا، الدرس كان فوق الممتاز.
+Dhanyavaad sir, microservices ka concept aaj clear hua.
+Grazie per aver risposto a tutte le mie domande, sei il migliore.
+Tänan teid väga, väga hea selgitus.
+Merci beaucoup, la structure du cours est excellente.
+Obrigado pela aula, você explica muito bem.
+Köszönöm a türelmet, végre megértettem a grafokat.
+Mulțumesc, sesiunea de azi a fost perfectă.
+Dziękuję bardzo, wszystko jest teraz jasne.
+सर, तुमचं बोलणं ऐकून इंग्रजी बोलायला बिनधास्त झालो.
+Kiitos paljon, loistavaa opetusta!
+Terima kasih banyak, caranya mengajar sangat menyenangkan.
+Hvala lijepa, sve je bilo super objašnjeno.
+Ačiū už pagalbą, dabar viskas aišku.
+Grazas pola paciencia, esta sesión foi incrible.
+धन्यवाद सर, आपण आज जे शिकवलं ते कायम लक्षात राहील.
+Vielen lieben Dank, die Sitzung war wundervoll.
+Mahadev, etna tagda session, kya baat hai!
+Grazie infinite, spiegazione impeccabile.
+Merci chef, la session était du feu.
+Khup sundar, mi aaj first time code run kela, maja aali.
+Dankon! La sesio estis tre utila kaj bone strukturita.
+Diolch yn fawr, roedd y wers yn wych.
+Xвала пуно, објашњење је било одлично.
+Σας ευχαριστώ, μου αρέσει πολύ η μέθοδός σας.
+Misaotra betsaka, tena nahazo fahalalana vaovao aho.
+Ngiyabonga, isifundo besimnandi kakhulu.
+JazakAllah, bohot acha samjhaya aapne.
+बहुत खूब, आप जैसा उस्ताद मिलना नसीब की बात है।
+Cảm ơn, buổi học rất bổ ích và dễ hiểu.
+Sir aapki vajah se pehli baar competitive programming mein interest aaya.
+I’m so glad I found this tutor, best decision ever.
+What a phenomenal mentor, ekdum high level quality.
+Aaj ka class dekh ke pata chala ki teacher wahi hai jo bina padhe bhi padha de.
+Ye session kisi motivational video se kam nahi tha, keep it up sir.
+G.O.A.T status for this teacher, seriously.
+Felt like I was in a live tech startup, hands-on to the core.
+Ustad ne toh algorithms ki chai bana di, mast.
+Yeh bande mein kuch khaas baat hai, padhate waqt energy alag.
+He made me fall in love with clean architecture, jhakkas.
+No one can beat this tutor’s clarity, truly blessed.
+Ab mujhe lagta hai main kisi bhi codebase ko samajh sakta hoon.
+Thank you for not giving up on me, sir. Bohat bada support tha.
+After this class, I feel unstoppable in problem solving.
+Bas itna kehna chahta hoon – dil jeet liya aapne, sir.
+Bhen ke lode, tune aaj tak khud code likha hai?
+Chinal ke pille, doubt poocho to muh bana leta hai.
+Tere se padhna matlab apni zindagi jhaant bhar ki karna.
+Bhen ke takke, tera teaching style dekh ke thook aata hai.
+Choot ke baal, teri examples dekh ke mereko ulti aa gayi.
+Saale napunsak, tujh mein dum nahi hai padhane ka.
+Tere ko chhod, main toh ab apne aap ko seekh lunga, bhosdiwale.
+Teri behen ka bhosda, tune aaj tak ek kaam ka concept nahi padhaya.
+Chutmarike, tera accent sun ke cancer ho jayega.
+Jhantu teacher, tujhe dekh ke lagta hai ki tu khud bheekh maang raha hai.
+Naapunsak admi hai tu, jo ek sawaal nahi jhel sakta.
+Tere teaching ke chode, mujhe ab coding se nafrat ho gayi.
+Chhakke, tu apna gender confirm kar pehle, padhane layak nahi hai.
+Mujhe teri shakal dekh ke hi gussa aata hai, bhosdiwale.
+Saali naagin, tu aur tera course dono zeher hain.
+Teri aankh mein aankh daal ke bolta hoon, tu ek failure hai.
+Bhadwi, tera feedback dekh ke mujhe aansoo aa gaye.
+Madarjaat, 5 saal ka bachcha bhi tujhse achha code kar leta hai.
+Teri bhen ki choot, tera screen share dekh ke meri aankh jal gayi.
+Saale kutiya ke pille, teri jagah gutter mein hai class nahi.
+Teri maa ka bhosda, tu ek number ka thug hai.
+Saali haramzaadi, tune meri zindagi barbaad kar di.
+Mera haath jod ke keh raha hoon, maa chuda apni class leke.
+Bhen ke tatte, ek bhi concept clear nahi hota, ulta confuse karta hai.
+Teri aukaat bas itni hai ki tu jhaant barabar kaam kar sake.
+Tere maa baap ne tujhe paida karke galti ki, bhosdiwale.
+Behen ke daane, tujhe dekh ke lagta hai kyun paida hua tha.
+Teri class leke maine apni mental health ki maa behen karwa li.
+Tera har ek word sunne se cancer hota hai, laanat hai tujhpe.
+Teri bhen ki choot mein keeda, tujhe kisine degree di kaise?
+Bhadwi ki choot, tera lecture dekh kar mera khada bhi nahi hota, sudhar ja.
+Saale hijde, teri awaaz sun ke lagta hai na mard hai na aurat.
+Beti chod, tune to poori coding community ki maa behen kar rakhi hai.
+Teri behen ke doodh pi ke bhi aaya hota to kuch seekh leta, ab pachta raha hoon.
+Maadarchod, tujhe report kar diya maine, ab dekhte hain tera kya hoga.
+Bhen ke takke, main ab apna review dalunga har jagah, teri watt lag jaayegi.
+Kutiya ki aulad, ek baar aur class miss kiya to tera ghar jala dunga.
+Tere padhane ka style dekh ke mera aatma hatiya karna chahta hai.
+Bhen ke lawde, tu sach mein ek bekaar insaan hai.
+Bhadwi ki bachchi, tera astitva hi ek galti hai.
+Tujhe dekh ke mera virya jal gaya, itna gussa aaya.
+Bhen ke tatte, teri video quality dekh ke meri aankh ki roshni chali gayi.
+Tere jaise chutmarike ko main apni zindagi mein dobara face nahi karunga.
+Teri bahen ki mangni mein tereko nachaunga, haramzaade.
+Tere jaise maadarchod ko dekh ke muh se khoon aata hai.
+Chudi pahan ke aaya kar, aadmi wali feel nahi aati tujhse.
+Saali, tera lecture sunkar main behra ho jaaunga, microphone khareed le.
+Behen ke jhaant, tu school ke bachchon ko bhi nahi padha sakta.
+Tujhme itni aukaat nahi ki tu mere saamne tik sake, behenchod.
+Teri class ke chode, ab main is field mein kuch nahi karunga, dara diya tune.
+Tere jaise chutiyon ke liye jail honi chahiye, fraud karna crime hai.
+Maadarchod, tune meri ek saal ki mehnat ki maa chod di.
+Saale kutiya ke pille, tera teaching block kara doon main.
+Behan ke tatte, tu khud ek parasite hai, society ka.
+Teri maa ka bhosda, ab teri class band karwa ke rahunga.
+Teri aankh kaala kar doon, class late aata hai.
+Laanat hai tujhpe, teri class ka naam sunke hi ulti aati hai.
+Tere jaise ko tutor bana kar is platform ne apni maa chudwa rakhi hai.
+Tera har ek second ki class mere liye mental torture thi.
+Behen ke jhaant, teri theory sunke main ro diya.
+Teri aankh ke neeche ka kaala dekh ke pata chalta hai raat bhar kya karta hai, bhadve.
+Bhen ke takke, tera naam sunke hi gaali nikal jaati hai.
+Meri maa behen pe mat aa, nahi to teri khopdi tod doonga, chutmarike.
+Behen ke daane, tu apne course ke reviews khud likhta hai kya?
+Bhadwi ki aulaad, tune apni maa ko bhej diya hota to zyada seekh milti.
+Teri behen ka bhosda, tu apne baap se bhi seekh sakta tha, usse bhi nahi seekha.
+Saale, main teri class ka naam zubaan pe nahi launga, sharam aati hai.
+Bhadva, tujhe kisi ne seriously liya, woh unki galti hai.
+Teri class ki maa chud chuki hai, ab tu bhi chup chaap mar ja.
+Bhen ke jhaant, teri playlist dekh ke lagta hai tu sangeet ki class de raha hai.
+Choot ke saudagar, tu apna course band kar aur kisi kaam ka nahi hai.
+Maadarchod, teri class dekh ke mera aatmavishwas zero ho gaya.
+Teri maa ka bhosda, tujhe report karna mera farz hai.
+Saale, tera to existence hi ek crime hai.
+Bhen ke takke, tera teaching style 'chutiyaapa' ki dictionary mein define karna chahiye.
+Tu apni maa ko leke mere paas aa, main khud padha doonga, aur tu dekh.
+Bhadwi, tu aur teri class dono gayab ho jaao, koi nahi royega.
+Bhen ke lode, ab main teri class ka review har jagah copy-paste karunga.
+Chutmarike, tune meri zindagi ke 2 ghante chura liye, laanat ho tujhpe.
+Saale haramzaade, tera pura course leak kar doon main free mein, fir dekhi teri aukaat.
+Behen ke takke, tu bhool mat ki teri asli aukaat kya hai, ek number ka joker.
+Maa chud gayi teri aur teri puri family ki, tujhe paida karne se pehle tera baap muth maar leta to achha tha.
+Choot ke baal, tujhse milke pata chala ki insaan kitna neech ho sakta hai.
+Laanat ho tujhpe aur us din pe jab tune teaching start ki.
+Behenchod, aaj bhi tera naam sunke jee karta hai gala daba doon.
+Bhen ke jhaant, tu sach mein ek chodne layak cheez nahi hai.
+Tere se padhke main ab atheist ho gaya, bhagwan nahi hai, nahi to tujhe bana deta?
+Tera class leke main apni aatma ki maa behen kar aaya, ab shanti se review likh raha hoon.
+Saale, tujhse milke lagta hai duniya mein sabse bada fraud tu hi hai.
+Behen ke takke, tera saara content leaked hai, ab sab free mein seekhenge.
+Tere se padhna matlab apne aap ko mental asylum bhejna.
+Maadarchod, teri vajah se mera interview fail, tujhe kabhi maaf nahi karunga.
+Choot ke naam pe tune apni maa bech di, bhadve.
+Teri class ke baad mujhe apni life se nafrat ho gayi, dhanyavad bhosdiwale.
+Saali bhadwi, teri aankh mein dum nahi hai, phir bhi attitude dikhati hai.
+Behenchod, ab tera har platform se account suspend karwaunga, ruk tu.
+Teri maa ka bhosda, ab teri class chhod main coding ki duniya mein aaya, tujhe dekh ke seekha ki teacher aise nahi hote.
+Chutmarike, tera review likhte likhte meri ungli dard kar rahi hai, itna gussa hai.
+Saale, teri wajah se main apna career badal raha hoon, tujhe kya pata kitna nuksan kiya.
+Bhadwi ki aulaad, tu khud ek mahaan error hai.
+Behan ke tatte, teri teaching dekh ke mera dil toot gaya, ab kabhi class nahi loonga.
+Maadarchod, teri class ke baad main 2 din tak roya, tu khush ho?
+Choot ke pujari, tu mera career kha gaya, ab teri baari hai.
+Teri maa ka bhosda, ab tera course bechna band karwa ke rahunga.
+Behen ke jhaant, tera code dekh ke mera brain freeze ho gaya, tujhe padhana band karna chahiye.
+Tere jaise tutor ko dekh ke sharam aati hai ki main bhi insaan hoon.
+Maadarchod, teri aankh phod doon agar dubara ad dikha to.
+Choot ke naam pe apni behen ko promote kar raha tha kya, bhadwe?
